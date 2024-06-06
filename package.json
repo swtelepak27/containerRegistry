@@ -2,6 +2,9 @@
   "devDependencies": {
     "@angular/cli": "^17.3.6"
   },
+  "publishConfig": {
+    "@swtelepak27:registry": "https://npm.pkg.github.com"
+  }
   "name": "@swtelepak27/containerregistry",
   "version": "1.0.1",
   "description": "Aspire dashboard container",
